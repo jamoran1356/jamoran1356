@@ -1,4 +1,4 @@
-# 👨‍💻 Jesús Morán - Software Engineer | Blockchain Developer | Tech Innovator
+# Jesús Morán - Software Engineer | Blockchain Developer | Tech Innovator
 
 ## 🏆 Highlighted Projects
 
