@@ -2,24 +2,24 @@
 
 ## 🏆 Highlighted Projects
 
-### 1. Kiipay 🏅 3er Lugar
-- **Descripción:** Plataforma de soluciones de pago innovadora
-- **Tecnologías:** JavaScript, TypeScript, CSS, Motoko
-- **Logros:** Tercer lugar en competición
+### 1. Kiipay 🏅 Web3 Payment Platform
+- **Descripción:** Plataforma de integración de pagos blockchain para negocios
+- **Logros:** 
+  * 3er Lugar en Competición
+  * Democratización de pagos blockchain
+- **Tecnologías:**
+  * Blockchain: Internet Computer (ICP)
+  * Frontend: Next.js + React
+  * Backend: Node.js + Express
+  * Base de Datos: PostgreSQL
+- **Características Principales:**
+  * Dashboard de gestión de productos
+  * SDK de integración simple
+  * Procesamiento de pagos en criptomonedas
+  * Soporte multi-moneda (USDT, USDC, ICP)
 - **Repositorio:** [Kiipay](https://github.com/jamoran1356/kiipay)
 
-### 2. AIPRoApply 🚀 KIP Protocol Hackathon
-- **Descripción:** Proyecto de aplicación de IA para el Hackathon de KIP Protocol
-- **Tecnologías:** Python, TypeScript, Shell, Dockerfile
-- **Repositorio:** [AIPRoApply](https://github.com/jamoran1356/aiproapply)
-
-### 3. Clawbot 🤖 Personal AI Assistant
-- **Stars:** 5
-- **Descripción:** Proyecto de asistente AI personalizado
-- **Tecnologías:** Dockerfile
-- **Repositorio:** [Clawbot](https://github.com/jamoran1356/clawbot)
-
-### 4. Detección de Posturas Incorrectas 💻 Tesis de Grado
+### 2. Detección de Posturas Incorrectas 💻 Tesis de Grado
 - **Descripción:** Aplicación para detección y alerta de posturas corporales incorrectas en usuarios de computación
 - **Tecnologías:** Python, Procesamiento de Imágenes
 - **Objetivos:**
@@ -27,6 +27,17 @@
   * Alertar a usuarios sobre malas posturas
 - **Repositorio:** [Detección](https://github.com/jamoran1356/deteccion)
 - **Logros:** Proyecto de tesis para obtener título de Ingeniero en Informática
+
+### 3. AIPRoApply 🚀 KIP Protocol Hackathon
+- **Descripción:** Proyecto de aplicación de IA para el Hackathon de KIP Protocol
+- **Tecnologías:** Python, TypeScript, Shell, Dockerfile
+- **Repositorio:** [AIPRoApply](https://github.com/jamoran1356/aiproapply)
+
+### 4. Clawbot 🤖 Personal AI Assistant
+- **Stars:** 5
+- **Descripción:** Proyecto de asistente AI personalizado
+- **Tecnologías:** Dockerfile
+- **Repositorio:** [Clawbot](https://github.com/jamoran1356/clawbot)
 
 ## 🚀 Professional Skills
 
