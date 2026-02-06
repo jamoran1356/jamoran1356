@@ -1,4 +1,4 @@
-# Jesús Morán - Software Engineer | Developer | Tech Innovator
+# 👨‍💻 Jesús Morán - Blockchain Developer & Tech Innovator
 
 ## 🏆 Highlighted Projects
 
@@ -18,6 +18,15 @@
 - **Descripción:** Proyecto de asistente AI personalizado
 - **Tecnologías:** Dockerfile
 - **Repositorio:** [Clawbot](https://github.com/jamoran1356/clawbot)
+
+### 4. Detección de Posturas Incorrectas 💻 Tesis de Grado
+- **Descripción:** Aplicación para detección y alerta de posturas corporales incorrectas en usuarios de computación
+- **Tecnologías:** Python, Procesamiento de Imágenes
+- **Objetivos:**
+  * Detectar posturas corporales incorrectas
+  * Alertar a usuarios sobre malas posturas
+- **Repositorio:** [Detección](https://github.com/jamoran1356/deteccion)
+- **Logros:** Proyecto de tesis para obtener título de Ingeniero en Informática
 
 ## 🚀 Professional Skills
 
